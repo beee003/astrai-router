@@ -2,7 +2,7 @@
 
 **Open-source intelligent LLM router** with Thompson Sampling, Berkeley ARBITRAGE, trading-style best execution, energy-aware routing, and privacy-preserving intelligence.
 
-> Competitors (OpenRouter, Martian, Unify) are closed-source or VC-funded. This is the same production system that powers [Astrai](https://astrai-compute.fly.dev) — now MIT-licensed.
+> Competitors (OpenRouter, Martian, Unify) are closed-source or VC-funded. This is the same production system that powers [Astrai](https://as-trai.com) — now MIT-licensed.
 
 ## Features
 
